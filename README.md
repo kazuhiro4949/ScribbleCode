@@ -1,5 +1,5 @@
 # ScribbleCode
-A repository of source code created on the Youtube channel.
+Source code in a repository created for the Youtube channel.
 
 https://www.youtube.com/channel/UCINSHJtjEm7vGBHs18-eQYA
 
