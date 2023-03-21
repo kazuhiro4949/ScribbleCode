@@ -12,6 +12,7 @@
 		CB2C4A4C29C96533006F5D27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB2C4A4B29C96533006F5D27 /* Assets.xcassets */; };
 		CB2C4A4F29C96533006F5D27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB2C4A4E29C96533006F5D27 /* Preview Assets.xcassets */; };
 		CB2C4A5629C965C6006F5D27 /* ImageGallery.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB2C4A5529C965C6006F5D27 /* ImageGallery.swift */; };
+		CB2C4A5829C966B6006F5D27 /* ParallaxScrollEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB2C4A5729C966B6006F5D27 /* ParallaxScrollEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CB2C4A4B29C96533006F5D27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB2C4A4E29C96533006F5D27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CB2C4A5529C965C6006F5D27 /* ImageGallery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGallery.swift; sourceTree = "<group>"; };
+		CB2C4A5729C966B6006F5D27 /* ParallaxScrollEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxScrollEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				CB2C4A4729C96532006F5D27 /* ScribbleCodeApp.swift */,
 				CB2C4A4929C96532006F5D27 /* Clock.swift */,
 				CB2C4A5529C965C6006F5D27 /* ImageGallery.swift */,
+				CB2C4A5729C966B6006F5D27 /* ParallaxScrollEffect.swift */,
 				CB2C4A4B29C96533006F5D27 /* Assets.xcassets */,
 				CB2C4A4D29C96533006F5D27 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				CB2C4A4A29C96532006F5D27 /* Clock.swift in Sources */,
 				CB2C4A5629C965C6006F5D27 /* ImageGallery.swift in Sources */,
+				CB2C4A5829C966B6006F5D27 /* ParallaxScrollEffect.swift in Sources */,
 				CB2C4A4829C96532006F5D27 /* ScribbleCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

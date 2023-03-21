@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zonbie_image.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
