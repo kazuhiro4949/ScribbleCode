@@ -11,7 +11,7 @@ import SwiftUI
 struct ScribbleCodeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Clock()
         }
     }
 }
